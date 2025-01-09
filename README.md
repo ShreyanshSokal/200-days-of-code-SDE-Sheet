@@ -17,7 +17,7 @@ The repository is organized into folders based on problem categories. Each folde
 ├── BackTracking/
 ├── Heaps/
 ├── Greedy-Algorithm/
-├── 2 Pointers Algorithm/
+├── 2-Pointers-Algorithm/
 ├── BinaryTrees/
 ├── BinarySearch/
 ├── BinarySearchTree/
